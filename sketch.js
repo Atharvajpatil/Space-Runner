@@ -36,8 +36,6 @@ obstacle3 = loadImage("light_blue.png");
  
 gameOverImg = loadImage("gameOver.jpg")
   
-bgimg = loadImage("background.png")
-
 jumpSound = loadSound("jump.mp3")
 dieSound = loadSound("die.mp3")
 
